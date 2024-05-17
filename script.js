@@ -1,8 +1,8 @@
 function home () {
     window.location.href = "index.html";
 }
-function goToMagazine () {
-    window.location.href = "mag.html";
+function goToProductLPage () {
+    window.location.href = "landingpage.html";
 }
 function goToPiano () {
     window.location.href = "piano.html";
@@ -16,9 +16,6 @@ function goToPenguin () {
 function goToBalanceSheet () {
     window.location.href = "balancesheet.html";
 }
-function goToProductLPage () {
-    window.location.href = "productlandingpage.html";
-}
 function goToFerrisWheel () {
     window.location.href = "ferriswheel.html";
 }
@@ -31,4 +28,6 @@ function goToForm () {
 function goToNutrition () {
     window.location.href = "nutrition.html";
 }
-
+function goToMagazine () {
+    window.location.href = "mag.html";
+}
